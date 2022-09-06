@@ -1,0 +1,15 @@
+.markdown p {
+  margin-bottom: 1rem;
+}
+
+.markdown ul > li + li {
+  margin-bottom: 1rem;
+}
+
+.markdown img {
+  width: 100%;
+}
+
+.markdown a {
+  color: #3294F8;
+}
